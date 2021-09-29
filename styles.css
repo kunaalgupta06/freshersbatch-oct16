@@ -12,3 +12,8 @@ table, th, td {
   padding: 10px;
   background-color:lightpink;
 }
+
+ol,li {
+  background-color: green;
+  margin:auto;
+}
