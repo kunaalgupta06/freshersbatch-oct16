@@ -1,2 +1,2 @@
 console.log('hello');
-hhj
+function myapp()
